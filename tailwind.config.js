@@ -19,6 +19,7 @@ module.exports = {
       red: colors.rose,
       pink: colors.fuchsia,
       amber: colors.amber,
+      green: colors.green,
       white: colors.white,
     },
     fontSize: {
@@ -27,6 +28,7 @@ module.exports = {
       'lg': '1.125rem',
       'xl': '1.25rem',
       '2xl': '1.5rem',
+      '3xl': '3rem',
       '7xl': '5rem',
     },
     extend: {

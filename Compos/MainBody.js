@@ -4,6 +4,7 @@ import EssayWritingCom from "../pages/EssayWritingCom";
 import IndexCom from "../pages/IndexCom";
 import GrammarCom from "../pages/GrammarCom";
 import VocabularyCom from "../pages/VocabularyCom";
+import RedirectPage from "../pages/RedirectPage";
 
 function MainBody() {
   const router = useRouter();
@@ -27,6 +28,9 @@ function MainBody() {
         break;
       case "3":
         setPage(<VocabularyCom />);
+        break;
+      case "4":
+        setPage(<RedirectPage />);
         break;
     }
   }, router.query.page);

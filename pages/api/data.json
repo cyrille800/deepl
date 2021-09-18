@@ -1,0 +1,258 @@
+{
+    "data": [
+        {
+            "id": 3,
+            "sentences": [
+                {
+                    "en": "As of 2020, the world\u2019s biggest lithium-ion battery is hooked up to the Southern California power grid and can provide 250 million watts of power, or enough to power about 250,000 homes. But it\u2019s actually not the biggest battery in the world: these lakes are.",
+                    "fr": " \u00c0 partir de 2020, la plus grande batterie lithium-ion du monde sera reli\u00e9e au r\u00e9seau \u00e9lectrique de la Californie du Sud et pourra fournir 250 millions de watts d'\u00e9nergie, soit suffisamment pour alimenter environ 250 000 foyers. Mais ce n'est pas la plus grande batterie du monde : ces lacs le sont.",
+                    "check": false,
+                    "lastValue": "",
+                    "id": 0
+                },
+                {
+                    "en": "good morning.",
+                    "fr": " bonjour.",
+                    "check": false,
+                    "lastValue": "",
+                    "id": 1
+                }
+            ],
+            "link": "",
+            "title": "",
+            "author": "",
+            "src": "http://placehold.jp/400x400.png",
+            "type": ""
+        },
+        {
+            "id": 2,
+            "sentences": [
+                {
+                    "id": 0,
+                    "time": "00:06",
+                    "en": "##As of 2020, the world\u2019s biggest lithium-ion battery ##is hooked up to the Southern California power grid ##and can provide 250 million watts of power, ##or enough to power about 250,000 homes. ##But it\u2019s actually not the biggest battery in the world: ##these lakes are.",
+                    "check": true,
+                    "lastValue": "As of 2020, the world\u2019s biggest lithium-ion battery is hooked up to the Southern California power grid and can provide 250 million watts of power, or enough to power about 250,000 homes. But it\u2019s actually not the biggest battery in the world: these lakes are.",
+                    "fr": " \u00c0 partir de 2020, la plus grande batterie lithium-ion du monde sera reli\u00e9e au r\u00e9seau \u00e9lectrique de la Californie du Sud et pourra fournir 250 millions de watts d'\u00e9nergie, soit assez pour alimenter environ 250 000 foyers. Mais ce n'est pas la plus grande batterie du monde : ces lacs le sont."
+                },
+                {
+                    "id": 1,
+                    "time": "00:28",
+                    "en": "##Wait\u2014 how can a pair of lakes be a battery? ##To answer that question, it helps to define a battery: ##it\u2019s simply something that stores energy and releases it on demand. ##The lithium-ion batteries that power our phones, laptops, and cars ##are just one type. ##They store energy in lithium ions. ##To release the energy, the ions are separated from their electrons, ##then rejoined at the other end of the battery ##as a new molecule with lower energy.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Attends- comment une paire de lacs peut \u00eatre une batterie ? Pour r\u00e9pondre \u00e0 cette question, il est utile de d\u00e9finir ce qu'est une batterie : c'est tout simplement quelque chose qui stocke l'\u00e9nergie et la lib\u00e8re \u00e0 la demande. Les batteries au lithium-ion qui alimentent nos t\u00e9l\u00e9phones, nos ordinateurs portables et nos voitures en sont un exemple. Elles stockent l'\u00e9nergie sous forme d'ions de lithium. Pour lib\u00e9rer l'\u00e9nergie, les ions sont s\u00e9par\u00e9s de leurs \u00e9lectrons, puis r\u00e9unis \u00e0 l'autre extr\u00e9mit\u00e9 de la batterie sous la forme d'une nouvelle mol\u00e9cule moins \u00e9nerg\u00e9tique."
+                },
+                {
+                    "id": 2,
+                    "time": "00:59",
+                    "en": "##How do the two lakes store and release energy? ##First, one is 300 meters higher than the other. ##Electricity powers pumps that move billions of liters of water ##from the lower lake to the higher one. ##This stores the energy by giving the water extra gravitational potential energy. ##Then, when there\u2019s high demand for electricity, ##valves open, releasing the stored energy by letting water flow downhill ##to power 6 giant turbines that can generate 3 billion watts of power ##for 10 hours.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Comment les deux lacs stockent-ils et lib\u00e8rent-ils l'\u00e9nergie ? Tout d'abord, l'un est 300 m\u00e8tres plus haut que l'autre. L'\u00e9lectricit\u00e9 alimente des pompes qui d\u00e9placent des milliards de litres d'eau du lac inf\u00e9rieur vers le lac sup\u00e9rieur. Cela permet de stocker l'\u00e9nergie en donnant \u00e0 l'eau une \u00e9nergie potentielle gravitationnelle suppl\u00e9mentaire. Ensuite, lorsque la demande d'\u00e9lectricit\u00e9 est \u00e9lev\u00e9e, des vannes s'ouvrent, lib\u00e9rant l'\u00e9nergie stock\u00e9e en laissant l'eau s'\u00e9couler vers le bas pour alimenter 6 turbines g\u00e9antes qui peuvent produire 3 milliards de watts d'\u00e9lectricit\u00e9 pendant 10 heures."
+                },
+                {
+                    "id": 3,
+                    "time": "01:34",
+                    "en": "##We\u2019re going to need more and more giant batteries. ##That\u2019s because right now, generating enough electricity to power the world ##produces an unsustainable amount of greenhouse gas: ##14 billion tons per year. ##We\u2019ll need to get that number down to net-zero. ##But many clean energy sources can\u2019t produce electricity 24/7. ##So to make the switch, we need a way to store the electricity until it's needed. ##That means we need grid-scale batteries: ##batteries big enough to power multiple cities.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Nous allons avoir besoin de plus en plus de batteries g\u00e9antes. En effet, \u00e0 l'heure actuelle, produire suffisamment d'\u00e9lectricit\u00e9 pour alimenter le monde entier g\u00e9n\u00e8re une quantit\u00e9 insoutenable de gaz \u00e0 effet de serre : 14 milliards de tonnes par an. Nous devrons ramener ce chiffre \u00e0 z\u00e9ro. Mais de nombreuses sources d'\u00e9nergie propres ne peuvent pas produire de l'\u00e9lectricit\u00e9 24 heures sur 24, 7 jours sur 7. Pour passer \u00e0 la vitesse sup\u00e9rieure, nous devons donc trouver un moyen de stocker l'\u00e9lectricit\u00e9 jusqu'\u00e0 ce que nous en ayons besoin. Cela signifie que nous avons besoin de batteries \u00e0 l'\u00e9chelle du r\u00e9seau : des batteries suffisamment grandes pour alimenter plusieurs villes."
+                },
+                {
+                    "id": 4,
+                    "time": "02:10",
+                    "en": "##Unfortunately, neither of the giant batteries we\u2019ve talked about so far ##can solve this problem. ##The two lakes setup requires specific geography, takes up a lot of land, ##and has high upfront costs to build. ##The giant lithium-ion battery in California, meanwhile, ##can power about 250,000 homes, yes, but only for an hour. ##Lithium-ion batteries are great for things that don\u2019t use a lot of power. ##But to store a lot of energy, they have to be huge and heavy. ##That\u2019s why electric planes aren\u2019t a thing: ##the best electric plane can only carry two people ##for about 1,000 kilometers on one charge, ##or its batteries would be too heavy to fly. ##A typical commercial jet can carry 300 people over 14,000 km ##before refueling. ##Lithium-ion batteries also require certain heavy metals to make. ##These resources are limited, and mining them often causes environmental damage.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Malheureusement, aucune des batteries g\u00e9antes dont nous avons parl\u00e9 jusqu'\u00e0 pr\u00e9sent ne peut r\u00e9soudre ce probl\u00e8me. La configuration \u00e0 deux lacs n\u00e9cessite une g\u00e9ographie sp\u00e9cifique, prend beaucoup de terrain et a des co\u00fbts initiaux \u00e9lev\u00e9s \u00e0 construire. La batterie g\u00e9ante au lithium-ion en Californie, quant \u00e0 elle, peut alimenter environ 250 000 foyers, oui, mais seulement pendant une heure. Les batteries au lithium-ion sont parfaites pour les choses qui ne consomment pas beaucoup d'\u00e9nergie. Mais pour stocker beaucoup d'\u00e9nergie, elles doivent \u00eatre \u00e9normes et lourdes. C'est pourquoi les avions \u00e9lectriques n'existent pas : le meilleur avion \u00e9lectrique ne peut transporter deux personnes que sur une distance d'environ 1 000 kilom\u00e8tres en une seule charge, sans quoi ses batteries seraient trop lourdes pour voler. Un avion commercial typique peut transporter 300 personnes sur 14 000 km avant de faire le plein. La fabrication des batteries lithium-ion n\u00e9cessite \u00e9galement certains m\u00e9taux lourds. Ces ressources sont limit\u00e9es, et leur extraction cause souvent des dommages \u00e0 l'environnement."
+                },
+                {
+                    "id": 5,
+                    "time": "03:13",
+                    "en": "##Inventors all over the world are rising to the challenge ##of making batteries that can meet our needs\u2014 ##many of them even weirder than the two lakes.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Les inventeurs du monde entier rel\u00e8vent le d\u00e9fi de fabriquer des batteries qui peuvent r\u00e9pondre \u00e0 nos besoins - beaucoup d'entre elles sont encore plus bizarres que les deux lacs."
+                },
+                {
+                    "id": 6,
+                    "time": "03:23",
+                    "en": "##One company is building a skyscraper battery. ##When the sun is shining, a crane powered by solar energy ##piles blocks on top of each other in a tower. ##At night, the cranes let gravity pull the blocks down ##and use the resulting power to spin generators.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Une entreprise construit une batterie de gratte-ciel. Lorsque le soleil brille, une grue aliment\u00e9e par l'\u00e9nergie solaire empile des blocs les uns sur les autres dans une tour. La nuit, les grues laissent la gravit\u00e9 tirer les blocs vers le bas et utilisent l'\u00e9nergie qui en r\u00e9sulte pour faire tourner des g\u00e9n\u00e9rateurs."
+                },
+                {
+                    "id": 7,
+                    "time": "03:42",
+                    "en": "##Though there have been some early setbacks, ##another promising approach involves heating up salts until they melt. ##The molten salt can be stored until there\u2019s a high demand for electricity, ##then used to boil water. ##The steam can power turbines that generate electricity.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Malgr\u00e9 quelques \u00e9checs initiaux, une autre approche prometteuse consiste \u00e0 chauffer les sels jusqu'\u00e0 ce qu'ils fondent. Le sel fondu peut \u00eatre stock\u00e9 jusqu'\u00e0 ce qu'il y ait une forte demande d'\u00e9lectricit\u00e9, puis utilis\u00e9 pour faire bouillir de l'eau. La vapeur peut alimenter des turbines qui produisent de l'\u00e9lectricit\u00e9."
+                },
+                {
+                    "id": 8,
+                    "time": "04:01",
+                    "en": "##Another idea: bio-batteries made from paper, powered by bacteria, ##and activated by spit. ##Bacteria release energy in the form of electrons when they metabolize glucose, ##and at least one species of bacteria can transfer those electrons ##outside its cells, completing a circuit. ##While these batteries won\u2019t power a city, or even a house, ##they don't have the waste and cost concerns of traditional batteries.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Autre id\u00e9e : des bio-batteries en papier, aliment\u00e9es par des bact\u00e9ries et activ\u00e9es par la salive. Les bact\u00e9ries lib\u00e8rent de l'\u00e9nergie sous forme d'\u00e9lectrons lorsqu'elles m\u00e9tabolisent le glucose, et au moins une esp\u00e8ce de bact\u00e9rie peut transf\u00e9rer ces \u00e9lectrons hors de ses cellules, compl\u00e9tant ainsi un circuit. Bien que ces piles ne puissent pas alimenter une ville, ni m\u00eame une maison, elles ne pr\u00e9sentent pas les probl\u00e8mes de d\u00e9chets et de co\u00fbt des piles traditionnelles."
+                },
+                {
+                    "id": 9,
+                    "time": "04:31",
+                    "en": "##From vast mountain lakes to microscopic bacteria, ##from seawater batteries that bypass the need for heavy metals ##to nuclear batteries that power deep space missions, ##we're constantly rethinking what a battery can be. ##The next unlikely battery could be hiding in plain sight\u2014 ##just waiting to be discovered and help us achieve a sustainable future.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Des vastes lacs de montagne aux bact\u00e9ries microscopiques, des batteries \u00e0 l'eau de mer qui \u00e9vitent l'utilisation de m\u00e9taux lourds aux batteries nucl\u00e9aires qui alimentent les missions dans l'espace lointain, nous repensons constamment ce que peut \u00eatre une batterie. La prochaine batterie improbable pourrait se cacher \u00e0 l'abri des regards - elle n'attend qu'\u00e0 \u00eatre d\u00e9couverte pour nous aider \u00e0 construire un avenir durable."
+                }
+            ],
+            "link": "https://www.ted.com/talks/ted_ed_the_world_s_biggest_battery_looks_nothing_like_a_battery/transcript",
+            "title": "The world's biggest battery looks nothing like a battery",
+            "author": "TED-Ed",
+            "src": "https://s3.amazonaws.com/talkstar-photos/uploads/961565d6-b331-4020-b04d-426931ff6d57/batteriestextless.jpg",
+            "type": "ted educator"
+        },
+        {
+            "id": 1,
+            "sentences": [
+                {
+                    "id": 0,
+                    "time": "00:08",
+                    "en": "##Every 24 hours, wind generates enough kinetic energy ##to produce roughly 35 times more electricity than humanity uses each day. ##And unlike coal or oil, this resource is totally renewed each day. ##So how can we harness this incredible amount of energy, ##and is it possible to create a world powered entirely by wind?",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Toutes les 24 heures, le vent g\u00e9n\u00e8re suffisamment d'\u00e9nergie cin\u00e9tique pour produire environ 35 fois plus d'\u00e9lectricit\u00e9 que l'humanit\u00e9 n'en consomme chaque jour. Et contrairement au charbon ou au p\u00e9trole, cette ressource est totalement renouvel\u00e9e chaque jour. Comment exploiter cette incroyable quantit\u00e9 d'\u00e9nergie et est-il possible de cr\u00e9er un monde enti\u00e8rement aliment\u00e9 par le vent ?"
+                },
+                {
+                    "id": 1,
+                    "time": "00:32",
+                    "en": "##The basic principle of wind energy is simple. ##A series of sails or blades mounted around a rotor catch the wind ##and translate its kinetic energy into rotational energy. ##Traditional windmills use that rotational energy to grind wheat or pump water. ##But in modern wind turbines, it turns a generator that creates electricity. ##This conversion from wind to rotational energy to electricity ##has defined wind turbines since their invention in the late 19th century. ##And there are three primary factors that determine just how much energy ##they can produce: the size and orientation of the blades, ##the blade\u2019s aerodynamic design, and the amount of wind turning the rotor.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Le principe de base de l'\u00e9nergie \u00e9olienne est simple. Une s\u00e9rie de voiles ou de pales mont\u00e9es autour d'un rotor captent le vent et transforment son \u00e9nergie cin\u00e9tique en \u00e9nergie rotative. Les moulins \u00e0 vent traditionnels utilisent cette \u00e9nergie rotative pour moudre le bl\u00e9 ou pomper l'eau. Mais dans les \u00e9oliennes modernes, elle fait tourner un g\u00e9n\u00e9rateur qui cr\u00e9e de l'\u00e9lectricit\u00e9. Cette conversion du vent en \u00e9nergie rotative et en \u00e9lectricit\u00e9 caract\u00e9rise les \u00e9oliennes depuis leur invention \u00e0 la fin du XIXe si\u00e8cle. Trois facteurs principaux d\u00e9terminent la quantit\u00e9 d'\u00e9nergie qu'elles peuvent produire : la taille et l'orientation des pales, leur conception a\u00e9rodynamique et la quantit\u00e9 de vent qui fait tourner le rotor."
+                },
+                {
+                    "id": 2,
+                    "time": "01:16",
+                    "en": "##First up, blade orientation. ##Wind turbines can be designed with their rotor ##on a vertical axis or a horizontal axis. ##Vertical blades can pick up wind coming from any direction, ##but with much less efficiency than horizontal axis rotors. ##Horizontal designs allow blades to capture the wind\u2019s full force ##by tracking the wind\u2019s direction and turning to face it. ##This turning process is called yawing, ##and older windmills achieved it through manual monitoring. ##Today, wind sensors and computer systems automatically adjust the blades ##with expert precision to capture as much energy as possible.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Tout d'abord, l'orientation de la lame. Les \u00e9oliennes peuvent \u00eatre con\u00e7ues avec leur rotor sur un axe vertical ou sur un axe horizontal. Les pales verticales peuvent capter le vent venant de n'importe quelle direction, mais avec une efficacit\u00e9 bien moindre que les rotors \u00e0 axe horizontal. Les conceptions horizontales permettent aux pales de capter toute la force du vent en suivant la direction du vent et en tournant pour lui faire face. Ce processus de rotation est appel\u00e9 \"lacet\", et les anciennes \u00e9oliennes y parvenaient gr\u00e2ce \u00e0 un contr\u00f4le manuel. Aujourd'hui, les capteurs de vent et les syst\u00e8mes informatiques ajustent automatiquement les pales avec une pr\u00e9cision experte pour capturer autant d'\u00e9nergie que possible."
+                },
+                {
+                    "id": 3,
+                    "time": "01:55",
+                    "en": "##Outside rotor orientation, ##the blades themselves need to be shaped to maximize efficiency. ##While early designs used flat blades, ##modern blades are curved like airplane wings. ##Wind travels faster over the curved surface, ##creating a low-pressure pocket above the blade that forces it upwards. ##Since the amount of lift depends on the angle ##at which the wind is moving relative to the blade, ##modern blades also incorporate a twist, ##optimizing how much of the blade can cut into the wind. ##Made of fiberglass and resin layers, these blades are strong enough ##to operate through rain, lightning, and blistering sunlight for over 20 years.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " En dehors de l'orientation du rotor, les pales elles-m\u00eames doivent \u00eatre fa\u00e7onn\u00e9es pour maximiser l'efficacit\u00e9. Alors que les premi\u00e8res conceptions utilisaient des pales plates, les pales modernes sont incurv\u00e9es comme les ailes d'un avion. Le vent se d\u00e9place plus rapidement sur la surface incurv\u00e9e, cr\u00e9ant une poche de basse pression au-dessus de la pale qui la pousse vers le haut. Comme la portance d\u00e9pend de l'angle de d\u00e9placement du vent par rapport \u00e0 la pale, les pales modernes comportent \u00e9galement une torsion, ce qui permet d'optimiser la partie de la pale qui peut couper le vent. Fabriqu\u00e9es \u00e0 partir de couches de fibre de verre et de r\u00e9sine, ces pales sont suffisamment solides pour fonctionner sous la pluie, les \u00e9clairs et les rayons du soleil pendant plus de 20 ans."
+                },
+                {
+                    "id": 4,
+                    "time": "02:36",
+                    "en": "##Even with aerodynamic blades and a horizontal rotor, ##a wind turbine can only capture wind if it's in a windy environment. ##Wind speeds typically increase the higher into the atmosphere you travel. ##So today, most turbines are well over 100 meters tall, ##with equally large rotor diameters. ##A turbine of this height and size can capture a huge amount of wind, ##generating enough electricity every year to power 750 American homes. ##A wind farm of 200 similarly sized turbines ##could power over 150,000 American homes\u2014 or twice as many European homes\u2014 ##for an entire year. ##Offshore wind farms contain an even greater number of even larger turbines. ##In 2019, the largest wind turbine ever built ##began operating off the coast of the Netherlands. ##With a rotor diameter of 220 meters, just one of these turbines ##can meet the annual power needs of 16,000 European households.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " M\u00eame avec des pales a\u00e9rodynamiques et un rotor horizontal, une \u00e9olienne ne peut capter le vent que si elle se trouve dans un environnement venteux. La vitesse du vent augmente g\u00e9n\u00e9ralement \u00e0 mesure que l'on s'\u00e9l\u00e8ve dans l'atmosph\u00e8re. Ainsi, aujourd'hui, la plupart des \u00e9oliennes d\u00e9passent largement les 100 m\u00e8tres de haut, avec des diam\u00e8tres de rotor tout aussi importants. Une turbine de cette hauteur et de cette taille peut capter une \u00e9norme quantit\u00e9 de vent, produisant chaque ann\u00e9e suffisamment d'\u00e9lectricit\u00e9 pour alimenter 750 foyers am\u00e9ricains. Un parc \u00e9olien compos\u00e9 de 200 turbines de taille similaire pourrait alimenter plus de 150 000 foyers am\u00e9ricains - ou deux fois plus de foyers europ\u00e9ens - pendant une ann\u00e9e enti\u00e8re. Les parcs \u00e9oliens en mer contiennent un nombre encore plus important de turbines encore plus grandes. En 2019, la plus grande \u00e9olienne jamais construite a commenc\u00e9 \u00e0 fonctionner au large des c\u00f4tes des Pays-Bas. Avec un diam\u00e8tre de rotor de 220 m\u00e8tres, une seule de ces turbines peut r\u00e9pondre aux besoins annuels en \u00e9lectricit\u00e9 de 16 000 foyers europ\u00e9ens."
+                },
+                {
+                    "id": 5,
+                    "time": "03:37",
+                    "en": "##Despite its amazing potential, wind energy still faces challenges. ##Wind may be a free and unlimited fuel, ##but no matter how large or efficient a turbine is ##there's a mathematical limit to how much wind it can convert into electricity. ##German physicist Albert Betz calculated ##that since some wind must remain to keep the blades spinning, ##a turbine can only ever capture 59.3% of the wind\u2019s energy. ##Additionally, some people feel turbines disrupt natural scenery, ##and wind energy\u2019s intermittent availability ##can make it difficult to integrate into electrical grids.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Malgr\u00e9 son incroyable potentiel, l'\u00e9nergie \u00e9olienne doit encore relever des d\u00e9fis. Le vent est peut-\u00eatre un combustible gratuit et illimit\u00e9, mais quelle que soit la taille ou l'efficacit\u00e9 d'une turbine, il y a une limite math\u00e9matique \u00e0 la quantit\u00e9 de vent qu'elle peut convertir en \u00e9lectricit\u00e9. Le physicien allemand Albert Betz a calcul\u00e9 qu'\u00e9tant donn\u00e9 qu'il doit rester un peu de vent pour que les pales continuent de tourner, une \u00e9olienne ne peut jamais capter que 59,3 % de l'\u00e9nergie du vent. En outre, certaines personnes estiment que les turbines perturbent le paysage naturel, et la disponibilit\u00e9 intermittente de l'\u00e9nergie \u00e9olienne peut rendre difficile son int\u00e9gration dans les r\u00e9seaux \u00e9lectriques."
+                },
+                {
+                    "id": 6,
+                    "time": "04:13",
+                    "en": "##But even with these challenges, modern wind turbines have made wind energy ##the most efficient and inexpensive source of electricity. ##Wind turbines already provide essential energy for communities around the world. ##And for many farmers, hosting a wind turbine ##can be a reliable source of additional income. ##With continued improvements in wind forecasting, ##electrical grid infrastructure and energy storage, ##wind power might blow away all our energy problems.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Mais malgr\u00e9 ces difficult\u00e9s, les \u00e9oliennes modernes ont fait de l'\u00e9nergie \u00e9olienne la source d'\u00e9lectricit\u00e9 la plus efficace et la moins ch\u00e8re. Les \u00e9oliennes fournissent d\u00e9j\u00e0 une \u00e9nergie essentielle aux communaut\u00e9s du monde entier. Et pour de nombreux agriculteurs, h\u00e9berger une \u00e9olienne peut \u00eatre une source fiable de revenus suppl\u00e9mentaires. Avec des am\u00e9liorations continues dans la pr\u00e9vision des vents, l'infrastructure des r\u00e9seaux \u00e9lectriques et le stockage de l'\u00e9nergie, l'\u00e9nergie \u00e9olienne pourrait bien faire dispara\u00eetre tous nos probl\u00e8mes \u00e9nerg\u00e9tiques."
+                }
+            ],
+            "link": "https://www.ted.com/talks/rebecca_j_barthelmie_and_sara_c_pryor_how_do_wind_turbines_work/transcript",
+            "title": "How do wind turbines work?",
+            "author": "Rebecca Barthelmie",
+            "src": "https://www.quickanddirtytips.com/sites/default/files/styles/article_main_image/public/images/17471/wind-turbines.png?itok=POKTx0Rw",
+            "type": "ted educator"
+        },
+        {
+            "id": 0,
+            "sentences": [
+                {
+                    "id": 0,
+                    "time": "00:08",
+                    "en": "##Communicating underwater is challenging. ##Light and odors don't travel well, so it's hard for animals to see or smell. ##But sound moves about four times faster in water than in air, ##so in this dark environment, ##marine mammals often rely on vocalization to communicate.",
+                    "check": true,
+                    "lastValue": "Communicating underwater is challenging. Light and odors don't travel well, so it's hard for animals to see or smell. But sound moves about four times faster in water than in air, so in this dark environment, marine mammals often rely on vocalization to communicate.",
+                    "fr": " Communiquer sous l'eau est un d\u00e9fi. La lumi\u00e8re et les odeurs ne se propagent pas bien, il est donc difficile pour les animaux de voir ou de sentir. Mais le son se d\u00e9place environ quatre fois plus vite dans l'eau que dans l'air. Dans cet environnement sombre, les mammif\u00e8res marins ont donc souvent recours \u00e0 la vocalisation pour communiquer."
+                },
+                {
+                    "id": 1,
+                    "time": "00:28",
+                    "en": "##That's why a chorus of sounds fills the ocean. ##Clicks, ##pulses, ##whistles, ##groans, ##boings, ##cries, ##and trills, to name a few. ##But the most famous parts of this underwater symphony ##are the evocative melodies, or songs, composed by the world's largest mammals, ##whales.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " C'est pourquoi un ch\u0153ur de sons remplit l'oc\u00e9an. Clics, pulsations, sifflements, g\u00e9missements, boings, cris et trilles, pour n'en citer que quelques-uns. Mais les parties les plus c\u00e9l\u00e8bres de cette symphonie sous-marine sont les m\u00e9lodies \u00e9vocatrices, ou chants, compos\u00e9es par les plus grands mammif\u00e8res du monde, les baleines."
+                },
+                {
+                    "id": 2,
+                    "time": "00:50",
+                    "en": "##Whale songs are one of the most sophisticated communication systems ##in the animal kingdom. ##Only a few species are known to sing. ##Blue, ##fin, ##bowhead ##minke whales, ##and of course humpback whales. ##These are all baleen whales ##which use hairy baleen plates instead of teeth to trap their prey. ##Meanwhile, toothed whales do use echolocation, ##and they and other species of baleen whales ##make social sounds, such as cries and whistles, to communicate. ##But those vocalizations lack the complexity of songs.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Le chant des baleines est l'un des syst\u00e8mes de communication les plus sophistiqu\u00e9s du r\u00e8gne animal. Seules quelques esp\u00e8ces sont connues pour chanter. Les baleines bleues, les rorquals communs, les petits rorquals bor\u00e9aux et, bien s\u00fbr, les baleines \u00e0 bosse. Ce sont toutes des baleines \u00e0 fanons qui utilisent des plaques de fanons poilues au lieu de dents pour pi\u00e9ger leurs proies. Les baleines \u00e0 dents, quant \u00e0 elles, utilisent l'\u00e9cholocation, et elles et d'autres esp\u00e8ces de baleines \u00e0 fanons \u00e9mettent des sons sociaux, comme des cris et des sifflements, pour communiquer. Mais ces vocalisations n'ont pas la complexit\u00e9 des chants."
+                },
+                {
+                    "id": 3,
+                    "time": "01:28",
+                    "en": "##So how do they do it? ##Land mammals like us generate sound by moving air over our vocal cords ##when we exhale, causing them to vibrate. ##Baleen whales have a U-shaped fold of tissue between their lungs ##and their large inflatable organs called laryngeal sacs. ##We don't know this for sure ##because it's essentially impossible to observe the internal organs ##of a living, singing whale, ##but we think that when a whale sings, ##muscular contractions in the throat and chest ##move air from the lungs across the U-fold and into the laryngeal sacs, ##causing the U-fold to vibrate. ##The resulting sound resonates in the sacs like a choir singing in a cathedral ##making songs loud enough to propagate up to thousands of kilometers away. ##Whales don't have to exhale to sing. ##Instead, the air is recycled back into the lungs, ##creating sound once more.",
+                    "check": false,
+                    "lastValue": "how are you doing ?",
+                    "fr": " Alors comment font-ils ? Les mammif\u00e8res terrestres comme nous produisent des sons en d\u00e9pla\u00e7ant l'air sur nos cordes vocales lorsque nous expirons, ce qui les fait vibrer. Les baleines \u00e0 fanons ont un pli de tissu en forme de U entre leurs poumons et leurs grands organes gonflables appel\u00e9s sacs laryng\u00e9s. Nous n'en sommes pas s\u00fbrs, car il est pratiquement impossible d'observer les organes internes d'une baleine vivante qui chante, mais nous pensons que lorsqu'une baleine chante, les contractions musculaires de la gorge et de la poitrine font passer l'air des poumons \u00e0 travers le pli en U et dans les sacs laryng\u00e9s, ce qui fait vibrer le pli en U. Le son qui en r\u00e9sulte r\u00e9sonne dans les poumons. Le son qui en r\u00e9sulte r\u00e9sonne dans les sacs comme un ch\u0153ur chantant dans une cath\u00e9drale, rendant le chant suffisamment fort pour se propager jusqu'\u00e0 des milliers de kilom\u00e8tres. Les baleines n'ont pas besoin d'expirer pour chanter. Au lieu de cela, l'air est recycl\u00e9 dans les poumons, cr\u00e9ant \u00e0 nouveau un son."
+                },
+                {
+                    "id": 4,
+                    "time": "02:27",
+                    "en": "##One reason whale songs are so fascinating is their pattern. ##Units, like moans, cries, and chirps are arranged in phrases. ##Repeated phrases are assembled into themes. ##Multiple themes repeated in a predictable pattern create a song. ##This hierarchical structure is a kind of grammar. ##Whale songs are extremely variable in duration, ##and whales can repeat them over and over. ##In one recorded session, a humpback whale sang for 22 hours.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " L'une des raisons pour lesquelles les chants de baleines sont si fascinants est leur structure. Les unit\u00e9s, comme les g\u00e9missements, les cris et les gazouillis, sont organis\u00e9es en phrases. Les phrases r\u00e9p\u00e9t\u00e9es sont assembl\u00e9es en th\u00e8mes. Des th\u00e8mes multiples r\u00e9p\u00e9t\u00e9s selon un sch\u00e9ma pr\u00e9visible cr\u00e9ent un chant. Cette structure hi\u00e9rarchique est une sorte de grammaire. La dur\u00e9e des chants de baleines est extr\u00eamement variable, et les baleines peuvent les r\u00e9p\u00e9ter \u00e0 l'infini. Lors d'une session enregistr\u00e9e, une baleine \u00e0 bosse a chant\u00e9 pendant 22 heures."
+                },
+                {
+                    "id": 5,
+                    "time": "02:59",
+                    "en": "##And why do they do it? ##We don't yet know the exact purpose, but we can speculate. ##Given that the singers are males and they mostly sing during the mating season, ##songs might be used to attract females. ##Or perhaps they're territorial, used to deter other males.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Et pourquoi le font-ils ? Nous ne connaissons pas encore le but exact, mais nous pouvons sp\u00e9culer. \u00c9tant donn\u00e9 que les chanteurs sont des m\u00e2les et qu'ils chantent surtout pendant la saison des amours, les chants pourraient \u00eatre utilis\u00e9s pour attirer les femelles. Ou peut-\u00eatre qu'ils sont territoriaux, utilis\u00e9s pour dissuader les autres m\u00e2les."
+                },
+                {
+                    "id": 6,
+                    "time": "03:17",
+                    "en": "##Whales return to the same feeding and breeding grounds annually, ##and each discrete population has a different song. ##Songs evolve over time as units or phrases are added, changed, or dropped. ##And when males from different populations are feeding within earshot, ##phrases are often exchanged, ##maybe because new songs make them more attractive to breeding females. ##This is one of the fastest examples of cultural transmission, ##where learned behaviors are passed between unrelated individuals ##of the same species.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Les baleines reviennent chaque ann\u00e9e dans les m\u00eames zones d'alimentation et de reproduction, et chaque population distincte a un chant diff\u00e9rent. Les chants \u00e9voluent avec le temps, au fur et \u00e0 mesure que des unit\u00e9s ou des phrases sont ajout\u00e9es, modifi\u00e9es ou supprim\u00e9es. Et lorsque des m\u00e2les de diff\u00e9rentes populations se nourrissent \u00e0 port\u00e9e de voix, les phrases sont souvent \u00e9chang\u00e9es, peut-\u00eatre parce que les nouveaux chants les rendent plus attrayants pour les femelles reproductrices. Il s'agit de l'un des exemples les plus rapides de transmission culturelle, o\u00f9 des comportements appris sont transmis entre des individus non apparent\u00e9s de la m\u00eame esp\u00e8ce."
+                },
+                {
+                    "id": 7,
+                    "time": "03:51",
+                    "en": "##We can eavesdrop on these songs using underwater microphones ##called hydrophones. ##These help us track species when sightings or genetic samples are rare. ##For example, scientists have been able to differentiate ##the elusive blue whale's populations worldwide based on their songs. ##But the oceans are getting noisier as a result of human activity. ##Boating, ##military sonar, ##underwater construction, ##and seismic surveys for oil are occurring more often ##which may interfere with whale's communication. ##Some whales will avoid key feeding or breeding grounds ##if human noise is too loud. ##And humpback whales have been observed to reduce their singing ##in response to noise 200 kilometers away. ##Limiting human activity along migratory routes ##and in other critical habitats, ##and reducing noise pollution throughout the ocean ##would help ensure whales continued survival. ##If the whales can keep singing and we can keep listening, ##maybe one day we'll truly understand what they're saying.",
+                    "check": false,
+                    "lastValue": "",
+                    "fr": " Nous pouvons \u00e9couter ces chants \u00e0 l'aide de microphones sous-marins appel\u00e9s hydrophones. Ceux-ci nous aident \u00e0 suivre les esp\u00e8ces lorsque les observations ou les \u00e9chantillons g\u00e9n\u00e9tiques sont rares. Par exemple, les scientifiques ont pu diff\u00e9rencier les populations de l'insaisissable baleine bleue dans le monde entier en se basant sur leurs chants. Mais les oc\u00e9ans deviennent de plus en plus bruyants en raison de l'activit\u00e9 humaine. La navigation de plaisance, les sonars militaires, les constructions sous-marines et les \u00e9tudes sismiques pour la recherche de p\u00e9trole sont de plus en plus fr\u00e9quents et peuvent interf\u00e9rer avec la communication des baleines. Certaines baleines \u00e9viteront les principales zones d'alimentation ou de reproduction si le bruit humain est trop fort. On a observ\u00e9 que les baleines \u00e0 bosse r\u00e9duisaient leur chant en r\u00e9ponse \u00e0 un bruit \u00e0 200 kilom\u00e8tres de distance. La limitation de l'activit\u00e9 humaine le long des voies de migration et dans d'autres habitats essentiels, ainsi que la r\u00e9duction de la pollution sonore dans l'ensemble de l'oc\u00e9an, contribueraient \u00e0 assurer la survie des baleines. Si les baleines peuvent continuer \u00e0 chanter et si nous pouvons continuer \u00e0 les \u00e9couter, peut-\u00eatre qu'un jour nous comprendrons vraiment ce qu'elles disent."
+                }
+            ],
+            "link": "https://www.ted.com/talks/stephanie_sardelis_why_do_whales_sing/transcript",
+            "title": "why do whales sings ?",
+            "author": "Stephanie Sardelis",
+            "src": "https://www.greenpeace.org.uk/wp-content/uploads/2021/02/GP-Whale.jpg",
+            "type": "ted educator"
+        }
+    ]
+}
