@@ -1,11 +1,11 @@
 import { LinearProgress } from "@material-ui/core";
 import React from "react";
 
-function BookitemSelect({id, toggleDrawer, src, author, title, sentences, getValue}) {
+function BookitemSelect({id, toggleDrawer, src, author, title, sentences, getValue, type, research}) {
     return (
     <>
       <div
-        className="w-full p-3 cursor-pointer rounded-lg hover:bg-white"
+        className={["w-full p-3 cursor-pointer rounded-lg hover:bg-white ",(author.toUpperCase().replaceAll(" ","").indexOf(research.toUpperCase().replaceAll(" ",""))!==-1 || title.toUpperCase().replaceAll(" ","").indexOf(research.toUpperCase().replaceAll(" ",""))!==-1 || type.toUpperCase().replaceAll(" ","").indexOf(research.toUpperCase().replaceAll(" ",""))!==-1) ? "" : "hidden" ].join(" ")}
         onClick={toggleDrawer("right", false, id)}
       >
         <div className="flex flex-row w-full">

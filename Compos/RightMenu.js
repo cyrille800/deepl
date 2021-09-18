@@ -6,6 +6,7 @@ import {
   Drawer,
   IconButton,
   LinearProgress,
+  TextField,
 } from "@material-ui/core";
 import NewBook from "./NewBook";
 
@@ -31,10 +32,16 @@ function RightMenu({ toggleDrawer }) {
   const [state, setState] = React.useState({ right: false });
   const [number, setNumber] = React.useState(-1);
   const [msg, setMsg] = React.useState("start");
+  const [research, setResearch] = React.useState("")
+  
   const [books, setBook] = useState(
     useSelector((state) => state.books.books.data)
   );
   const dispatch = useDispatch();
+
+  const handleChange = (e) => {
+    setResearch(e.target.value)
+  }
 
   const toggleDrawerSecond = (anchor, open, data) => async (event) => {
     setNumber(0);
@@ -87,7 +94,10 @@ function RightMenu({ toggleDrawer }) {
       //   onClick={toggleDrawer("right", false)}
       //   onKeyDown={toggleDrawer("right", false)}
     >
-      <div style={{ height: "10%" }}>header</div>
+      <div style={{ height: "10%" }}>
+      <TextField label="Research book" defaultValue={research} variant="outlined" size="small" className="m-5 mb-2 bg-white w-10/12" name="title"onChange={handleChange}  />
+
+      </div>
       <div
         style={{ height: "80%" }}
         className="overflow-scroll overflow-x-hidden  bg-seventh "
@@ -100,7 +110,7 @@ function RightMenu({ toggleDrawer }) {
          <LinearProgress className={["w-full", (number===0) ? "" : "hidden"].join(" ")}/>
 
         {books.map((item, key) => (
-          <BookitemSelect key={key} toggleDrawer={toggleDrawer} id = {item.id} src = {item.src} author={item.author} getValue = {getValue} title = {item.author} sentences= {item.sentences} />
+          <BookitemSelect research={research} key={key} type={item.type} toggleDrawer={toggleDrawer} id = {item.id} src = {item.src} author={item.author} getValue = {getValue} title = {item.author} sentences= {item.sentences} />
         ))}
 
       </div>

@@ -1,9 +1,12 @@
 import { Button, Card, CardActions, CardContent, CardMedia, Typography, Box, Paper, Menu, MenuItem } from "@material-ui/core";
 import { ArrowDropDownCircleOutlined } from "@material-ui/icons";
+import ControlPointDuplicateIcon from '@material-ui/icons/ControlPointDuplicate';
 import React, { useEffect, useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
+import { useRouter } from "next/router";
 
 function BookSelect() {
+  const router = useRouter();
   const [bookselect, setBookselect] = useState(
     useSelector((state) => state.books.bookSelection)
   );
@@ -22,10 +25,20 @@ function BookSelect() {
     setAnchorEl(null);
   };
 
+  const addBook = () => {
+    let chaine = "/MainCompo?page="+String(5);
+    router.push(chaine, undefined, { shallow: true });
+  }
   return (
     <>
     <div  className="w-full flex flex-row align-center">
     <div className="w-3/12 fixed left-12">
+    <Button
+        onClick={addBook}
+        className="bg-secondary text-white mb-4"
+      >
+        <ControlPointDuplicateIcon className="mr-4" /> Add book
+      </Button>
     <Card>
       <CardMedia
         component="img"

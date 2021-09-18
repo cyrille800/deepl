@@ -5,6 +5,7 @@ import IndexCom from "../pages/IndexCom";
 import GrammarCom from "../pages/GrammarCom";
 import VocabularyCom from "../pages/VocabularyCom";
 import RedirectPage from "../pages/RedirectPage";
+import NewBookUser from "../pages/NewBookUser";
 
 function MainBody() {
   const router = useRouter();
@@ -32,6 +33,9 @@ function MainBody() {
       case "4":
         setPage(<RedirectPage />);
         break;
+        case "5":
+          setPage(<NewBookUser />);
+          break;
     }
   }, router.query.page);
   return <div>{page}</div>;

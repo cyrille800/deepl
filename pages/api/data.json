@@ -1,38 +1,14 @@
 {
     "data": [
         {
-            "id": 3,
-            "sentences": [
-                {
-                    "en": "As of 2020, the world\u2019s biggest lithium-ion battery is hooked up to the Southern California power grid and can provide 250 million watts of power, or enough to power about 250,000 homes. But it\u2019s actually not the biggest battery in the world: these lakes are.",
-                    "fr": " \u00c0 partir de 2020, la plus grande batterie lithium-ion du monde sera reli\u00e9e au r\u00e9seau \u00e9lectrique de la Californie du Sud et pourra fournir 250 millions de watts d'\u00e9nergie, soit suffisamment pour alimenter environ 250 000 foyers. Mais ce n'est pas la plus grande batterie du monde : ces lacs le sont.",
-                    "check": false,
-                    "lastValue": "",
-                    "id": 0
-                },
-                {
-                    "en": "good morning.",
-                    "fr": " bonjour.",
-                    "check": false,
-                    "lastValue": "",
-                    "id": 1
-                }
-            ],
-            "link": "",
-            "title": "",
-            "author": "",
-            "src": "http://placehold.jp/400x400.png",
-            "type": ""
-        },
-        {
             "id": 2,
             "sentences": [
                 {
                     "id": 0,
                     "time": "00:06",
                     "en": "##As of 2020, the world\u2019s biggest lithium-ion battery ##is hooked up to the Southern California power grid ##and can provide 250 million watts of power, ##or enough to power about 250,000 homes. ##But it\u2019s actually not the biggest battery in the world: ##these lakes are.",
-                    "check": true,
-                    "lastValue": "As of 2020, the world\u2019s biggest lithium-ion battery is hooked up to the Southern California power grid and can provide 250 million watts of power, or enough to power about 250,000 homes. But it\u2019s actually not the biggest battery in the world: these lakes are.",
+                    "check": false,
+                    "lastValue": "",
                     "fr": " \u00c0 partir de 2020, la plus grande batterie lithium-ion du monde sera reli\u00e9e au r\u00e9seau \u00e9lectrique de la Californie du Sud et pourra fournir 250 millions de watts d'\u00e9nergie, soit assez pour alimenter environ 250 000 foyers. Mais ce n'est pas la plus grande batterie du monde : ces lacs le sont."
                 },
                 {
@@ -187,8 +163,8 @@
                     "id": 0,
                     "time": "00:08",
                     "en": "##Communicating underwater is challenging. ##Light and odors don't travel well, so it's hard for animals to see or smell. ##But sound moves about four times faster in water than in air, ##so in this dark environment, ##marine mammals often rely on vocalization to communicate.",
-                    "check": true,
-                    "lastValue": "Communicating underwater is challenging. Light and odors don't travel well, so it's hard for animals to see or smell. But sound moves about four times faster in water than in air, so in this dark environment, marine mammals often rely on vocalization to communicate.",
+                    "check": false,
+                    "lastValue": "",
                     "fr": " Communiquer sous l'eau est un d\u00e9fi. La lumi\u00e8re et les odeurs ne se propagent pas bien, il est donc difficile pour les animaux de voir ou de sentir. Mais le son se d\u00e9place environ quatre fois plus vite dans l'eau que dans l'air. Dans cet environnement sombre, les mammif\u00e8res marins ont donc souvent recours \u00e0 la vocalisation pour communiquer."
                 },
                 {
@@ -212,7 +188,7 @@
                     "time": "01:28",
                     "en": "##So how do they do it? ##Land mammals like us generate sound by moving air over our vocal cords ##when we exhale, causing them to vibrate. ##Baleen whales have a U-shaped fold of tissue between their lungs ##and their large inflatable organs called laryngeal sacs. ##We don't know this for sure ##because it's essentially impossible to observe the internal organs ##of a living, singing whale, ##but we think that when a whale sings, ##muscular contractions in the throat and chest ##move air from the lungs across the U-fold and into the laryngeal sacs, ##causing the U-fold to vibrate. ##The resulting sound resonates in the sacs like a choir singing in a cathedral ##making songs loud enough to propagate up to thousands of kilometers away. ##Whales don't have to exhale to sing. ##Instead, the air is recycled back into the lungs, ##creating sound once more.",
                     "check": false,
-                    "lastValue": "how are you doing ?",
+                    "lastValue": "",
                     "fr": " Alors comment font-ils ? Les mammif\u00e8res terrestres comme nous produisent des sons en d\u00e9pla\u00e7ant l'air sur nos cordes vocales lorsque nous expirons, ce qui les fait vibrer. Les baleines \u00e0 fanons ont un pli de tissu en forme de U entre leurs poumons et leurs grands organes gonflables appel\u00e9s sacs laryng\u00e9s. Nous n'en sommes pas s\u00fbrs, car il est pratiquement impossible d'observer les organes internes d'une baleine vivante qui chante, mais nous pensons que lorsqu'une baleine chante, les contractions musculaires de la gorge et de la poitrine font passer l'air des poumons \u00e0 travers le pli en U et dans les sacs laryng\u00e9s, ce qui fait vibrer le pli en U. Le son qui en r\u00e9sulte r\u00e9sonne dans les poumons. Le son qui en r\u00e9sulte r\u00e9sonne dans les sacs comme un ch\u0153ur chantant dans une cath\u00e9drale, rendant le chant suffisamment fort pour se propager jusqu'\u00e0 des milliers de kilom\u00e8tres. Les baleines n'ont pas besoin d'expirer pour chanter. Au lieu de cela, l'air est recycl\u00e9 dans les poumons, cr\u00e9ant \u00e0 nouveau un son."
                 },
                 {
